@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Saturn"],
+    "answer": 1
+  },
+  {
+    "question": "Which language is used to style web pages?",
+    "options": ["HTML", "JQuery", "CSS", "XML"],
+    "answer": 2
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Utility"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "answer": 2
+  },
+  {
+    "question": "Which company developed TypeScript?",
+    "options": ["Google", "Facebook", "Microsoft", "Mozilla"],
+    "answer": 2
+  },
+  {
+    "question": "What is the result of 3 + 2 * 2?",
+    "options": ["10", "7", "12", "8"],
+    "answer": 1
+  },
+  {
+    "question": "Who is known as the father of computers?",
+    "options": ["Alan Turing", "Charles Babbage", "Steve Jobs", "Tim Berners-Lee"],
+    "answer": 1
+  },
+  {
+    "question": "Which HTML tag is used for a hyperlink?",
+    "options": ["<a>", "<link>", "<href>", "<url>"],
+    "answer": 0
+  },
+  {
+    "question": "In JavaScript, what keyword is used to declare a variable?",
+    "options": ["var", "int", "string", "float"],
+    "answer": 0
+  }
+]
